@@ -1,3 +1,11 @@
+## Web design Inspiration -Integration of a Task Management Dashboard
+
+### Model by Budiarti R (Indonesia) for Dribble
+Reference : https://dribbble.com/shots/16729003-Task-Management-Dashboard-Design
+
+## Stack
+- React
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
