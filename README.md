@@ -1,7 +1,6 @@
-## Web design Inspiration -Integration of a Task Management Dashboard
+# Web design Inspiration - Integration of a Task Management Dashboard
 
-### Model by Budiarti R (Indonesia) for Dribble
-Reference : https://dribbble.com/shots/16729003-Task-Management-Dashboard-Design
+Model by Budiarti R. (Indonesia) for Dribbble : https://dribbble.com/shots/16729003-Task-Management-Dashboard-Design
 
 ## Stack
 - React
